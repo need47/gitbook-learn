@@ -1,5 +1,15 @@
 {
     "plugins": [
         "language-picker@https://github.com/okalachev/gitbook-plugin-language-picker.git"
-    ]
+    ],
+    
+    "pluginsConfig": {
+        "language-picker": {
+            "grid-columns": 3,
+            "languages": [
+                ["en", "English"],
+                ["zh", "中文"]
+            ]
+        }
+    }
 }
