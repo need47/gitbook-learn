@@ -1,2 +1,4 @@
-# gitbook-learn
-Learn GitBook with multi-lang support
+# Languages
+
+* [English](en/)
+* [中文](zh/)

@@ -2,4 +2,4 @@
 
 ## Get Started
 
-* [About this document](README.md)
+* [About this document](../zh/)
