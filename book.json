@@ -1,15 +1,10 @@
 {
-    "plugins": [
-        "language-picker@https://github.com/okalachev/gitbook-plugin-language-picker.git"
-    ],
-    
+    {
+    "plugins": ["multilingual-index"],
     "pluginsConfig": {
-        "language-picker": {
-            "grid-columns": 3,
-            "languages": [
-                ["en", "English"],
-                ["zh", "中文"]
-            ]
+        "multilingual-index": {
+            "enableSuper": false,
+            "index":"index.html"
         }
     }
 }
