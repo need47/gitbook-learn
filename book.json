@@ -1,0 +1,5 @@
+{
+    "plugins": [
+        "language-picker@https://github.com/okalachev/gitbook-plugin-language-picker.git"
+    ]
+}
